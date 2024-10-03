@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm sherlockGH-coder 👋
 
-<!--
-**sherlockGH-coder/sherlockGH-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on xxx
+- 🌱 I’m currently learning deep learning.
+- 👯 I’m looking to collaborate on xxx
+- 🤔 I’m looking for help with xxx
+- 💬 Ask me about xxx
+- 📫 How to reach me: xxx
+- ⚡ Fun fact: xxx
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
